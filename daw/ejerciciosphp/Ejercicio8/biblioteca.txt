@@ -1,0 +1,119 @@
+57,¡Pero si lo tienes todo para para ser feliz!, burton, Con la depresión a nosotros,216, 11,1 
+85,A orillas del Mississippi, jekel, una fogosa dinastía del Sur.,512, 14,1 
+120,Amnesia, mercer, Búsqueda de identidad alrededor d un asesinato.,364, 14,1 
+24,Antiguas murallas y otras noticias, aymé, una maravillosa obra de ingeniería inventiva.,420, 13,1 
+98,Balada italiana, Rivers siddons, la obsesión por un mundo desconocido.,352, 8,1 
+127,Busca a una joven a la que le guste bailar, higgins clark, Danza macabra.,352, 11,1 
+71,Cena con tenedor, anglade, un amor en la época de la ocupación.,368, 13,1 
+10,Contracorazón, quindlen, Escándalo alrededor de una muerte sospechosa.,432, 10,0 
+50,Dios río, Smith, una formidable epopeya de amor y de poder en el Egipto antigua.,720, 17,1 
+30,Donde el corazón te lleve, tamaro, un emocionante relato de amor,192, 11,1 
+132,Duerme, mi amor, higgins clark, un asesinato cosido a mano en el mundo de la moda.,304, 11,1 
+28,El alquimista, coelho, la búsqueda iniciática de un tesoro.,252, 11,1 
+74,El año del ciervo, jeury, Cuando los adultos compiten a espaldas de los niños.,384, 14,0 
+118,El cliente, grisham, El niño que sabía demasiado…,592, 14,0 
+61,El cuervo sobre el techo, giono, una mujer bajo amenaza de muerte.,512, 14,1 
+66,El fin del mundo, giono, Amor extremo y pasiones inevitables.,512, 14,1 
+83,El hombre que ríe, hugo, el drama de un aristócrata desfigurado.,800, 17,1 
+56,El hombre que susurraba a los caballos, evans, el secreto de las palabras que curan…,432, 14,1 
+27,El infierno blanco, Harris, una vida reinventada en el Gran Norte.,320, 14,0 
+62,El iris de Susa, giono, Ferocidad del amor,368, 13,1 
+87,El jardín de las sombras, andrews, ,350, 13,0 
+108,El joven al teléfono, simpère, Confesiones en una línea caliente.,162, 10,1 
+58,El mofletudo, dorin, Hijo a cargo de un padre demasiado libre.,320, 14,1 
+17,El mundo alrededor, rouaud, una educación sentimental en un mundo borroso.,252, 11,1 
+31,El mundo alrededor, rouaud, una educación sentimental en un mundo loco.,252, 11,1 
+48,El niño de las luces, chandernagor, El vengativo amor de un aristócrata ridiculizado.,512, 16,1 
+92,El niño del crepúsculo, andrews, ,432, 13,1 
+44,El ópalo de Sissi, benzoni, una fabulosa joya le conduce al amor.,432, 15,0 
+105,El oro del cielo, michael, fabulosamente rico de un día para otro. ,512, 14,1 
+70,El pan blanco, crozes, la fuerza del amor en una epopeya campesina.,384, 15,1 
+53,El paraíso de los amores las infantiles, cauley, las aventuras sin par de una amistad extraña.,384, 13,1 
+119,El poder de ejecutar, baldacci, historia de un voyeur.,432, 17,1 
+55,El primer violín, beauchemin, los cuarenta: la edad de todas las locuras.,480, 16,1 
+94,El rayo, steel, cuando la enfermedad fulmina a una pareja.,400, 13,1 
+106,El secreto de doctor Guillard, arnaud, la lucha de un médico.,304, 13,0 
+99,El silencio de una mujer, simons, la búsqueda de un equilibrio amoroso.,496, 16,1 
+115,El sol en emboscada, suyin, asesinatos y polvo blanco.,288, 8,1 
+38,El templo de millones d año, jacq, Amenazas mortales sobre un joven faraón.,384, 15,1 
+35,El testamento francés, makine, el vértigo amoroso de un pequeño ruso.,368, 14,1 
+101,Este niño es el nuestro, benker, Drama alrededor de una adopción.,448, 14,0 
+88,Flores cautivas, andrews, ,378, 13,1 
+65,Grandes caminos, giono, Vagabundeos y fatalidades peligrosas.,384, 14,1 
+73,Grandes muchachas, jeury, Retos femeninos para una profesora.,384, 14,1 
+78,Han de Islandia, hugo, un demonio humano con sed venganza.,528, 15,1 
+9,Himnos al amor, wiazemsky, el legado de un amor roto.,176, 10,1 
+116,Insomnio, king, Fuerzas indeterminadas que atormentan las noches de insomnio.,720, 18,1 
+63,Juan el Azul, giono, una infancia provenzal.,314, 13,1 
+113,La arena blanca, red, Locura fatal en montaña.,384, 14,1 
+39,La batalla de Kadesh, jacq, Retos cruciales para Ramsés.,400, 15,1 
+16,La casa del gueto, higgins clark, el pasado enterrado,224, 10,1 
+128,La clínica de doctor H., higgins clark, Diagnóstico para la muerte.,336, 11,1 
+72,La colina de los contrabandistas, bruel, la felicidad en el estado salvaje.,272, 13,1 
+111,La conspiración de los ángeles, sulitzer, una historia diabólica de los locos de Dios.,432, 14,1 
+18,La Dama de Abu Simbel, jacq, cuando el hombre de Dios desafía a Faraón.,400, 15,1 
+107,La enfermera inglesa, san antonio, las hazañas de un enano criminal.,336, 14,1 
+42,La estrella azul, benzoni, una loca historia de amor y aventura.,368, 15,1 
+109,La fortuna de Laufer, lentéric, las maniobras de una pareja diabólica.,432, 15,1 
+97,La hora de los secretos, goudge, Mujeres con ansias de maternidad.,544, 14,1 
+29,La isla del día de antes, Eco, novela de aventuras y filosofía.,464, 17,1 
+68,La maestra de escuela, armand, entre el amor y el deseo de enseñar.,336, 14,0 
+25,La nieve caía sobre los cedros, guterson, un amor extraordinario.,528, 14,1 
+123,La noche de los ladrones, burdett, un trío muy peligroso.,368, 13,1 
+131,La noche del zorro, higgins clark, Zorro: la firma del asesino.,288, 11,0 
+84,La nueva vida de Barbara Devane, koen, Dramas y pasiones de una mujer de carácter.,656, 15,1 
+52,La papisa Juana, Crosse, una mujer en el trono de San Pedro.,608, 13,1 
+34,La parte de Dios, galo, ,320, 14,1 
+110,La revolución de las hormigas, werber, el ingenio de las hormigas al servicio de la paz de los hombres.,544, 16,1 
+43,La rosa de York, benzoni, por el amor de una piedra preciosa y de una mujer.,480, 15,1 
+51,La última colina, deforges, una ardiente enamorada en Indochina.,480, 14,0 
+122,Las 7 máscaras, sadoul, un juego de pistas criminal.,352, 11,1 
+64,Las almas fuertes, giono, de las pasiones extremas.,528, 14,1 
+46,Las cenas de Calpurnia, diwo, una mujer maestra en la Roma de los césares.,464, 17,1 
+32,Las escalas del levante, maalour, la terrible confesión de un rehén de la historia.,272, 15,1 
+114,Las lágrimas del dragón, koontz, una espiral de espantosos terrores.,312, 13,0 
+104,Las rosas de Texas, woods windle, de las heroínas legendarias de Texas.,400, 14,1 
+22,Las setas, garnweidner, una guía fotográfica muy útil,160, 12,1 
+67,Las tierras abandonadas, cornaille, el destino animado de una mujer de la tierra.,348, 13,1 
+69,Las vides de Santa Coloma, signol, Pasiones y dramas de una dinastía vinícola.,486, 15,1 
+130,Lo que viven las rosas., higgins clark, Dobles inquietantes,288, 15,1 
+93,Los demonios de la noche, andrews, ,434, 13,1 
+19,Los hilos de la luz, jacq, Iniciación de un futuro faraón.,432, 15,1 
+80,Los Miserables (volumen 1), hugo, los asuntos de un presidiario.,1024, 19,1 
+81,Los Miserables (volumen 2), hugo, bajo la cólera de un pueblo rebelado…,1040, 19,1 
+49,Los reyes malditos, druon, un célebre fresco histórico en un único voloumen.,1620, 18,1 
+91,Los secretos del alba, andrews, ,392, 13,1 
+82,Los trabajadores del mar, hugo, los sacrificios de un marinero de gran corazón.,624, 16,1 
+15,Lucky Luke: Billy the kid, Morris y goscinny, ,48, 5,0 
+86,Luisiana, peyramaure, A la conquista d una nueva tierra.,840, 18,1 
+13,Luz negra, walters, ¿Suicidio o crimen disfrazado?,448, 14,1 
+12,Malena es nombre de tango, grandes, una fogosa e intrépida española.,518, 16,1 
+14,Nathan, gilstrap, historia de un criminal de 12 años.,384, 14,1 
+117,No culpables, grisham, ¿Crimen justificado contra el odio racial?,720, 15,1 
+126,No iremos más al bosque, higgins clark, Crimen pasional o locura asesina,352, 14,1 
+112,No llores, fielding, Amenazas a una mujer demasiado torpe.,352, 14,1 
+60,No te diré nunca adiós, rey, La felicidad no estaba a la vuelta de la esquina.,432, 13,1 
+79,Notre Dame de París, hugo, un ardiente romance gótico,672, 16,1 
+59,Nuremberg, mazeau, Pasión condenada por la rutina,256, 10,1 
+7,Otra mujer, tyler, reinventar su vida y devenir otra.,396, 14,0 
+100,Pasiones peligrosas, bradford, la inevitable venganza del pasado.,336, 14,1 
+89,Pétalos al viento, andrews, ,448, 13,1 
+95,Pleno cielo, steel, Proezas y pasiones de una aviadora.,432, 13,0 
+90,Racimo de espinas, andrews, ,392, 13,1 
+124,Recuerda, higgins clark, Misterio y terror a domicilio…,400, 15,1 
+121,Relaciones peligrosas, lovett, cuando un enfermo mental conduce el juego.,320, 13,1 
+45,Romandía, denuzière, una próspera dinastía de viticultores y comerciantes de vinos.,704, 18,1 
+11,Rosa, Smith, Pasión tórrida en país minero.,528, 14,1 
+36,Sostiene Pereira, tabucchi, ,216, 8,1 
+21,Suavidad de Francia, chupin, la felicidad de vivir en las regiones de Francia.,192, 20,1 
+8,Tan buenas amigas, trollope, matrimonios en crisis.,304, 14,1 
+54,Teo y María, Duquesne, la loca huida de dos niños de la Liberación.,414, 14,1 
+125,Un día verás…, higgins clark, la semejanza era demasiado perfecta…,352, 14,1 
+129,Un grito en la noche, higgins clark, la casa de los grandes terrores.,352, 11,1 
+47,Un lobo es un lobo, folco, La cómica epopeya de un líder,576, 15,1 
+76,Un pueblo tan tranquilo, varel, los inquietantes misterios d un pueblo.,496, 13,1 
+4,Una loca pasión, bobin, una mujer corre tras la vida, el amor y el sueño.,192, 10,1 
+102,Una mujer en blanco, boissard, los desgarros de una mujer cirujana.,496, 14,1 
+103,Una sombra en el espejo, krentz, Misterios alrededor de un encuentro amoroso.,336, 13,1 
+26,Una sombra sarracena, clancier, Hechizado por un pueblo y rehén de su pasado.,320, 8,1 
+96,Una temporada de pasión, steel, Reto amoroso para una reclusa.,576, 12,1 
